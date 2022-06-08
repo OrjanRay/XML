@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+ <BUG_REPORT_123a>
+   <BUG_ID>123a</BUG_ID>
+   <TITLE>Contact form - No confirmation message is shown</TITLE>
+   <SUMMARY>the page where the contact form is on does not show any confirmation message after submitting a contact request</SUMMARY>
+   <STR>1 open the contact page, 2 click on the contact form, 3 fill in contact request, 4 submit a contact request</STR>
+   <EXP_RES>confirmation window is shown after submitting a contact request</EXP_RES>
+   <ACT_RES>no confirmation window is shown</ACT_RES>
+   <SCREENSHOT>attached</SCREENSHOT>
+ </BUG_REPORT_123a>
